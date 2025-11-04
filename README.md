@@ -57,10 +57,6 @@ Possible API keys you might need:
 ### Project 1: Build an LLM Playground
 An introductory project to explore how prompts, tokenization, and decoding settings work in practice, building the foundation for effective use of large language models.
 
-**Release Date**: October 4, 2025 · 10:00 AM PT
-
-**Notebook Link:** [Here](https://github.com/bytebyteai/ai-eng-projects/blob/main/project_1/lm_playground.ipynb)  
-
 **Learning objectives:**
 - Tokenization of raw text into discrete tokens
 - Basics of GPT-2 and Transformer architectures
@@ -70,10 +66,6 @@ An introductory project to explore how prompts, tokenization, and decoding setti
 
 ### Project 2: Customer-Support Chatbot for an E-Commerce Store
 A hands-on project to build a retrieval-based chatbot that answers customer questions for an imaginary e-commerce store.
-
-**Release Date**: October 11, 2025 · 10:00 AM PT
-
-**Notebook Link:** [Not Released Yet] 
 
 **Learning objectives:**
 - Ingest and chunk unstructured documents
@@ -86,10 +78,6 @@ A hands-on project to build a retrieval-based chatbot that answers customer ques
 ### Project 3: Ask-the-Web Agent
 A project to create a simplified Perplexity-style agent that searches the web, reads content, and provides answers.
 
-**Release Date**: October 18, 2025 · 10:00 AM PT
-
-**Notebook Link:** [Not Released Yet] 
-
 **Learning objectives:**
 - Understand why tool calling is useful for LLMs
 - Implement a loop to parse model calls and execute Python functions
@@ -100,22 +88,14 @@ A project to create a simplified Perplexity-style agent that searches the web, r
 ### Project 4: Build a Deep Research System
 A project focused on reasoning workflows, where you design a multi-step agent that plans, gathers evidence, and synthesizes findings.
 
-**Release Date**: October 25, 2025 · 10:00 AM PT
-
-**Notebook Link:** [Not Released Yet] 
-
 **Learning objectives:**
 - Apply inference-time scaling methods (zero-shot/few-shot CoT, self-consistency, sequential decoding, tree-of-thoughts)
 - Gain intuition for training reasoning models with the STaR approach
 - Build a deep-research agent that combines reasoning with live web search
-- Extend deep-research into a multi-agent system
+- Extend deep research into a multi-agent system
 
-### Project 5: Build a Multimodal Agent
+### Project 5: Build a Multimodal Generation Agent
 A project to build an agent that combines textual question answering with image and video generation capabilities within a unified system.
-
-**Release Date**: November 1, 2025 · 10:00 AM PT
-
-**Notebook Link:** [Not Released Yet] 
 
 **Learning objectives:**
 - Generate images from text using Stable Diffusion XL
@@ -126,9 +106,6 @@ A project to build an agent that combines textual question answering with image 
 ### Week 6: Capstone Project
 
 **Purpose:** Design and build your own system based on what you learned in weeks 1 to 5. This can be a product prototype, an internal tool, a research workflow, or the first step toward a startup idea. The hope is that some projects will continue after the cohort, using the connections and community built here.
-
-**Demo date**: November 9, 2025 · 10:00 - 12:00 PM PT
-
 
 ## Reference docs and readings
 
