@@ -12,6 +12,20 @@ __pycache__/
 venv/
 .envrc
 
+# Config files with tokens (keep .env.example)
+config.py
+
+# Generated outputs (except demo folder)
+test_*.png
+test_*.mp4
+generated_*.png
+generated_*.mp4
+*.png
+*.mp4
+!demo/
+!demo/*.png
+!demo/*.mp4
+
 # Jupyter
 .ipynb_checkpoints/
 

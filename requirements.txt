@@ -1,0 +1,23 @@
+# Multimodal Generation Agent - Requirements
+
+# Core dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Hugging Face libraries
+transformers>=4.30.0
+diffusers>=0.25.0
+accelerate>=0.20.0
+huggingface-hub>=0.16.0
+
+# Image and video processing
+Pillow>=9.0.0
+numpy>=1.21.0
+opencv-python>=4.7.0
+
+# Web UI
+gradio>=4.0.0
+
+# Utilities
+tqdm>=4.65.0
+safetensors>=0.3.0
